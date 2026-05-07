@@ -1,7 +1,7 @@
 
 OLLAMA_MODEL = "mistral"
 
-PDF_PATH = "D:\\ptuxiakh\\docs"
+PDF_PATH = "" #add the path of the pdfs 
 
 CHUNK_SIZE = 800
 CHUNK_OVERLAP = 200
